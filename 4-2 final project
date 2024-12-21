@@ -1,0 +1,32 @@
+Behavior Tree Initialization
+"Set up behavior tree and blackboard for AI character functionality."
+
+Random Movement Behavior
+"Implemented random movement behavior: AI moves to random locations using BTTask."
+
+Focus System
+"Added 'Set Focus' behavior: AI dynamically focuses on the player when in sight."
+
+AI Movement to Location
+"Configured 'Move to Location' behavior: AI navigates toward designated targets."
+
+Shooting Mechanics
+"Implemented 'Shoot' behavior in behavior tree: AI fires projectiles at the player."
+
+Stop Shooting Behavior
+"Added 'Stop Shooting' behavior: AI ceases firing under specified conditions."
+
+AI Perception Setup
+"Configured AI perception system: Sight sense detects player and reacts accordingly."
+
+AI Projectile System
+"Set up AI projectile mechanics: projectiles deal damage to both player and AI."
+
+Damage and Health System
+"Implemented ApplyDamage functionality: AI takes damage and triggers health reduction."
+
+AI Death and Respawn
+"Added AI respawn system: AI respawns after death with full functionality restored."
+
+Final Repository Update
+"Updated project repository with AI character behavior tree, perception, damage system, and respawn functionality."
